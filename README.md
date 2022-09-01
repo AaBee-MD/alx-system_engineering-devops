@@ -1,1 +1,6 @@
 shell basic command
+
+
+clear
+
+
