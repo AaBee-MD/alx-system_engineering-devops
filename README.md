@@ -1,6 +1,1 @@
-shell basic command
-
-
-clear
-
-
+Where am I?
